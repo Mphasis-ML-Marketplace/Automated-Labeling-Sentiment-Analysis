@@ -13,4 +13,4 @@ This solution takes input of unlabeled text data and generates initial/base labe
 * PACE - ML is Mphasis Framework and Methodology for end-to-end machine learning development and deployment. PACE-ML enables organizations to improve the quality & reliability of the machine learning solutions in production and helps automate, scale, and monitor them. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-6ykfvcfweweji?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
+The product can be found [here](https://aws.amazon.com/marketplace/management/ml-products/a2274e1d-d365-44c6-9413-004320418244?)
